@@ -1,3 +1,8 @@
 body {
     background: rgb(247, 253, 243);
 }
+
+/* style modal */ 
+dialog article img {
+    border:10px solid orange; 
+}
